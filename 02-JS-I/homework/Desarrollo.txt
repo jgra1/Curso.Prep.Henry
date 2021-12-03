@@ -1,0 +1,11 @@
+Desarrollo:
+Variables: Estas se encargan de guardar contenidos, tienen un nombre mediante el cual se puede acceder a dichos contenidos se le pueden asignar valores.
+Strings: Son cadenas o bloques de texto los cuales siempre van entre una ' o dos comillas ".
+Funciones: Son objetos invocables los cuales guardan codigo y lo ejecutan una vez invocada la misma. Los argumentos son variables las cuales nos permiten tener un mayor manejo sobre las funciones y nos facilitan el manejo del codigo. 
+Return: Es una declaracion la cual usamos cuando queremos devolver un valor o una accion al invocar una funcion. Todo lo que quieramos que haga una funcion debe estar puesto antes de return ya que al ejecutarse esta declaracion se corta todo el codigo que le sigue.
+If: Es un condicional que podemos utilizar cuando quieramos hacer determinada accion si se cumple determinada condicion como devolver cierto resultado si se cumple cierta condicion.Se puede usar tanto para operaciones numericas como para evaluar falsedad de una afirmacion.
+Valores Booleanos: Son objetos los cuales se dividen en dos: true y false. True se da si se cumple una condicion o si una afirmacion es correcta y false si no se cumple una condicion o si nuestra afirmacion es incorrecta.
+
+
+
+
